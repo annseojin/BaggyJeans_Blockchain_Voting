@@ -31,10 +31,42 @@ export function Information() {
           </h2>
 
           <p className="text-base md:text-lg text-gray-700 leading-relaxed">
-            강의명: 웹어플리케이션보안(캡스톤디자인) 01분반<br></br>
-            담당 교수: 이병천 교수님<br></br>
-            팀명: 배기진스(BaggyJeans) <br></br>
-            팀원: 안서진, 백이랑, 이지원, 이태연, 백이랑<br></br>
+            강의명: 웹어플리케이션보안(캡스톤디자인) 01분반
+            <br />
+            담당 교수: 이병천 교수님
+            <br />
+            팀명: 배기진스(BaggyJeans) <br />
+            팀원: 안서진, 백이랑, 이지원, 이태연, 백이랑
+            <br />
+            깃허브 :
+            <a
+              href="https://github.com/BaggyJeans3/blockchain-voting"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 text-blue-600 font-semibold hover:text-blue-800 ml-1"
+            >
+              {/* 네모난 GitHub 아이콘 */}
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="20"
+                height="20"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+              >
+                <rect
+                  x="2"
+                  y="2"
+                  width="20"
+                  height="20"
+                  rx="4"
+                  fill="currentColor"
+                />
+                <path
+                  d="M12 3C7.03 3 3 7.03 3 12c0 3.99 2.58 7.36 6.16 8.56.45.08.62-.19.62-.43v-1.51c-2.51.54-3.04-1.08-3.04-1.08-.41-1.05-1-1.33-1-1.33-.81-.55.06-.54.06-.54.9.06 1.38.93 1.38.93.79 1.36 2.07.97 2.58.74.08-.57.31-.97.56-1.19-2-.23-4.12-1-4.12-4.46 0-.99.36-1.8.94-2.43-.1-.23-.4-1.16.09-2.42 0 0 .76-.24 2.48.93A8.6 8.6 0 0112 8.3c.77.01 1.54.1 2.26.3 1.71-1.18 2.48-.93 2.48-.93.49 1.26.18 2.19.09 2.42.58.63.94 1.44.94 2.43 0 3.47-2.12 4.23-4.14 4.45.32.28.63.85.63 1.72v2.55c0 .24.17.52.63.43C18.42 19.37 21 16 21 12c0-4.97-4.03-9-9-9z"
+                  fill="#fff"
+                />
+              </svg>
+            </a>
           </p>
         </div>
       </motion.div>
