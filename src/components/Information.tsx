@@ -27,16 +27,14 @@ export function Information() {
         <div className="max-w-3xl mx-auto text-center space-y-6">
           <h2 className="text-2xl md:text-3xl font-bold text-gray-900 flex items-center justify-center gap-3">
             <span>👥</span>
-            <span>프로젝트 소개</span>
+            <span>팀 소개</span>
           </h2>
 
           <p className="text-base md:text-lg text-gray-700 leading-relaxed">
-            이 프로젝트는 블록체인 기술을 활용해, 신뢰할 수 있는 전자 시스템을
-            직접 설계·구현해 보는 것을 목표로 합니다.
-            <br />
-            단순한 기능 구현을 넘어서,{' '}
-            <span className="font-semibold">보안, 신뢰성, 사용자 경험</span>까지
-            함께 고민하며 설계한 결과물을 만드는 데에 집중하고 있습니다.
+            강의명: 웹어플리케이션보안(캡스톤디자인) 01분반<br></br>
+            담당 교수: 이병천 교수님<br></br>
+            팀명: 배기진스(BaggyJeans) <br></br>
+            팀원: 안서진, 백이랑, 이지원, 이태연, 백이랑<br></br>
           </p>
         </div>
       </motion.div>
